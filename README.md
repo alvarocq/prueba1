@@ -1,2 +1,2 @@
 # prueba1
-Este es el respositorio prueba
+Este es el respositorio prueba1
